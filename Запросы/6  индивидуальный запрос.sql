@@ -1,0 +1,1 @@
+select city,Round(avg(price),1), count(*) as count from avto where year between date('now', '-3 years') and date('now') Group by 1 Order by Count desc;

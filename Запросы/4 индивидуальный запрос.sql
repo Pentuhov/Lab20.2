@@ -1,0 +1,1 @@
+select min(price), max(price) from avto where mark = 'audi';

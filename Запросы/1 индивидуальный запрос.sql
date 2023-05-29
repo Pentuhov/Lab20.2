@@ -1,0 +1,1 @@
+select model,mark from avto where year = 2015;

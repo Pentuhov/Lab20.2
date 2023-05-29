@@ -1,0 +1,1 @@
+SELECT timezone, count(city) AS city_count FROM city WHERE federal_district = 'Приволжский' or federal_district = 'Сибирский' GROUP BY timezone ORDER BY timezone ASC; 

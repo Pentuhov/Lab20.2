@@ -1,0 +1,1 @@
+SELECT timezone, count(Distinct city) AS city_count FROM city GROUP BY timezone ORDER BY timezone ASC; 

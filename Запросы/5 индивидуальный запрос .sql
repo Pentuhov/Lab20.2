@@ -1,0 +1,1 @@
+select count(model), mark from avto where year Between 2016 and 2018 and fuel = 'Gasoline' Group by 2;

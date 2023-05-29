@@ -1,0 +1,552 @@
+city,"Round(avg(price),1)",count
+Warszawa,195728.7,1802
+"Łódź",193555.9,1286
+"Chorzów",183215.8,975
+"Gdańsk",228220.2,764
+"Wrocław",211555.2,654
+"Kraków",190225.1,651
+"Poznań",220130.7,571
+Katowice,189777.0,562
+Gdynia,194783.4,408
+"Toruń",205942.5,356
+Bydgoszcz,190675.0,323
+Szczecin,173739.9,307
+Sosnowiec,157982.5,297
+"Częstochowa",248051.9,283
+Opole,201712.9,275
+Kalisz,221199.4,259
+Gliwice,242987.4,244
+"Mikołów",363331.9,229
+Olsztyn,221641.2,212
+Kielce,237103.3,208
+"Płock",277331.1,204
+"Bielsko-Biała",155662.1,204
+Lublin,173322.3,182
+"Białystok",173066.2,173
+Rybnik,189400.7,165
+"Rzeszów",202155.5,153
+"Zielona Góra",196188.3,145
+"Długołęka",243845.6,137
+"Włocławek",119260.4,127
+"Gorzów Wielkopolski",157531.2,123
+"Nowy Sącz",177278.7,104
+Piaseczno,167731.2,95
+"Libertów",244251.4,91
+Tychy,157502.8,90
+"Słupsk",120025.1,84
+Lubin,183727.9,81
+"Tarnowskie Góry",121488.7,78
+"Nowy Targ",100517.9,70
+"Grudziądz",110152.1,67
+Swadzim,220175.1,65
+Radom,160387.9,64
+Wolica,296596.7,61
+Leszno,228488.4,58
+Konin,110007.3,58
+"Elbląg",133087.5,55
+Siedlce,124924.4,52
+Nadarzyn,150251.0,51
+"Mysłowice",203911.1,51
+Zabrze,135500.3,49
+"Dąbrowa Górnicza",216980.9,47
+"Piła",104486.9,43
+Jelonek,106457.6,43
+Baranowo,180201.3,43
+"Świdnik",233686.9,42
+Modlnica,218335.0,42
+"Bielany Wrocławskie",117100.1,42
+Szczecinek,140256.6,41
+Falenty,155319.3,41
+"Swarzędz",123509.2,39
+"Przeźmierowo",145606.7,39
+"Łomianki",240636.4,38
+"Suchy Las",111672.4,38
+Legnica,123764.6,37
+Koszalin,141445.1,36
+"Starogard Gdański",137959.4,34
+Poczesna,356274.7,33
+Straszyn,316325.8,31
+"Dobroń",131692.0,31
+Bytom,118332.2,31
+Wieliczka,146968.0,30
+"Tarnów",112723.6,30
+"Stare Bielice",141363.4,29
+"Stalowa Wola",96723.4,29
+Komorniki,126272.3,28
+"Wałbrzych",142758.1,27
+"Łowicz",109795.4,26
+Wrzosowa,142038.5,26
+"Piotrków Trybunalski",93002.8,25
+Modlniczka,259786.2,24
+Janki,265730.9,24
+"Złotów",150760.0,23
+"Ostrołęka",144102.8,23
+"Ciechanów",109584.8,23
+"Bełchatów",103323.9,23
+Krosno,119260.4,21
+Marki,239389.5,19
+"Inowrocław",130253.7,19
+Liszki,104741.8,18
+Wojnicz,79664.7,17
+Sopot,196267.6,17
+Rumia,98002.6,17
+"Mikołajowice",116893.5,17
+"Łaziska Górne",106949.4,16
+"Wągrowiec",87757.5,16
+"Świdnica",168404.0,15
+"Środa Wielkopolska",136160.5,15
+"Zbylitowska Góra",131750.8,14
+Wejherowo,215302.5,14
+"Myślenice",131057.8,14
+"Zduńska Wola",180594.7,13
+"Rzgów",125384.8,13
+Gniezno,149600.0,13
+"Sękocin Nowy",112983.3,12
+Radlin,321658.3,12
+"Jelenia Góra",111165.8,12
+"Starowa Góra",174931.2,11
+Nysa,93197.3,11
+Mielec,103977.3,11
+Gaj,167609.1,11
+Choroszcz,262873.6,11
+"Będzin",116945.5,11
+"Biała Podlaska",96075.2,11
+"Świętochłowice",109143.7,10
+"Złotniki",133940.0,10
+"Węgrzce",320629.8,10
+"Ostrów Wielkopolski",130240.0,10
+"Nowy Tomyśl",425600.0,10
+"Jankowo Dolne",107330.0,10
+Jamnica,129871.7,10
+Czechowice-Dziedzice,171944.3,10
+"Łomża",157445.4,9
+"Otmuchów",113544.4,9
+"Opatówek",125491.1,9
+"Głogów Małopolski",195255.6,9
+"Łęczyca",137875.0,8
+"Niepołomice",161162.5,8
+"Mińsk Mazowiecki",129831.3,8
+"Międzyrzecze Górne",124450.0,8
+Bolszewo,531362.5,8
+"Ząbki",233755.4,7
+"Wołomin",101571.1,7
+"Wieleń",324428.6,7
+"Sławice",294156.0,7
+Sieradz,73571.3,7
+"Ruda Śląska",259057.1,7
+Pyrzowice,67757.1,7
+"Oborniki Śląskie",219047.1,7
+"Nowa Wieś",86357.1,7
+Lesznowola,104514.3,7
+"Kościerzyna",128905.7,7
+Konstancin-Jeziorna,177071.4,7
+"Józefów",133527.9,7
+"Giżycko",85077.1,7
+Zawiercie,195611.7,6
+"Wyszków",107146.2,6
+"Września",117979.5,6
+Studzienice,113700.0,6
+Rydzyna,130698.3,6
+Pszczyna,152883.3,6
+"Mościska",162460.0,6
+"Lubicz Dolny",147050.0,6
+"Lubań",104816.7,6
+"Kędzierzyn-Koźle",122341.7,6
+"Kołobrzeg",156283.3,6
+Jaworzno,119733.3,6
+Jawornik,248970.7,6
+"Człuchów",113599.8,6
+"Bolesławice",109489.3,6
+"Żory",126940.0,5
+"Śrem",210178.0,5
+"Tomaszów Mazowiecki",131544.0,5
+"Stare Miasto",127299.6,5
+"Siemianowice Śląskie",102260.0,5
+Sady,95940.0,5
+"Rydułtowy",112500.0,5
+Racibory,258520.2,5
+"Pruszków",224120.0,5
+"Porosły-Kolonia",320964.6,5
+"Ociąż",379028.2,5
+"Nowe Gulczewo",357784.0,5
+"Mroków",214160.0,5
+"Kępno",183477.4,5
+"Konstantynów Łódzki",201950.0,5
+"Kobyłka",123040.0,5
+"Ełk",108320.0,5
+Cieszyn,174321.8,5
+Chojnice,101498.2,5
+"Blizne Łaszczyńskiego",187217.8,5
+"Świlcza",91900.0,4
+"Świecie",109436.3,4
+"Zamość",141762.5,4
+"Wałcz",121122.5,4
+Turek,90640.0,4
+"Słupca",78900.0,4
+"Suwałki",132135.8,4
+"Strzelce Opolskie",119749.5,4
+"Stojadła",139522.5,4
+"Sokołów Podlaski",165225.0,4
+Raszyn,118650.0,4
+"Płońsk",121818.5,4
+"Poręba",180750.0,4
+"Mierzęcice",118975.0,4
+Magnice,109285.5,4
+"Koło",120150.0,4
+Konopnica,139430.0,4
+Jaworze,108400.0,4
+"Jastrzębie-Zdrój",144474.8,4
+"Gostyń",147731.0,4
+"Czchów",101900.0,4
+Chwaszczyno,125168.8,4
+"Chrzanów",195375.0,4
+"Chechło Pierwsze",242000.0,4
+"Błonie",187725.0,4
+"Bieruń",84206.0,4
+"Żywiec",133066.7,3
+"Świebodzin",68133.0,3
+"Łysomice",157133.3,3
+"Węgrzce Wielkie",265000.0,3
+"Słubice",653820.3,3
+"Sulejówek",112500.0,3
+Skierniewice,121966.7,3
+Rawicz,299333.3,3
+Radwanice,180720.0,3
+Radomsko,200300.0,3
+"Pruszcz Gdański",983333.3,3
+Pabianice,175656.0,3
+"Oleśnica",162633.3,3
+"Międzyrzec Podlaski",160710.7,3
+Lubliniec,84660.0,3
+Legionowo,141300.0,3
+Krasne,105033.3,3
+"Końskie",152947.3,3
+Kozy,61466.7,3
+Kotlin,94039.7,3
+"Grójec",159900.0,3
+Gryfice,207999.3,3
+"Grodzisk Mazowiecki",243155.0,3
+Garwolin,109903.0,3
+"Bąków",90566.7,3
+Brodowo,105900.0,3
+"Żórawina",225995.0,2
+"Żnin",177870.0,2
+"Świnoujście",124850.0,2
+"Łapy",131500.0,2
+Zgorzelec,172125.5,2
+Zblewo,197000.0,2
+Wschowa,39900.0,2
+"Wodzisław Śląski",59400.0,2
+Witaszyce,59300.0,2
+Wierzbiczany,76449.5,2
+"Szamotuły",104525.0,2
+Strzelce,258915.0,2
+"Strzałkowo",81450.0,2
+"Skoczów",149950.0,2
+Skawina,264450.0,2
+Sierakowice,140968.0,2
+Siedlec,149900.0,2
+Siechnice,220170.0,2
+Rzepin,255840.0,2
+Ryki,76875.0,2
+Rudawa,64900.0,2
+"Radłów",86250.0,2
+"Puńców",269000.0,2
+Przygodzice,73300.0,2
+Prudnik,122750.0,2
+Pisz,221999.5,2
+"Ostrzeszów",173000.0,2
+"Ostrowiec Świętokrzyski",59649.5,2
+Osielsko,138950.0,2
+Orle,294585.0,2
+"Opole Lubelskie",115000.0,2
+Opoczno,103300.0,2
+Niemodlin,127499.5,2
+"Mścice",187900.0,2
+"Myszków",57200.0,2
+"Mońki",345000.0,2
+"Milanówek",80300.0,2
+Mierzyn,148784.0,2
+"Michałowice",361899.5,2
+"Luboń",400365.0,2
+Limanowa,122450.0,2
+"Kłodzko",89088.5,2
+Kutno,95275.0,2
+"Książenice",338000.0,2
+"Koziegłowy",269000.0,2
+Kowale,196199.5,2
+Kolbudy,149924.5,2
+"Józefosław",166197.0,2
+Jawczyce,588500.0,2
+"Jasło",117288.5,2
+Jaromirowice,162900.0,2
+Jarocin,76450.0,2
+"Głogów",78900.0,2
+"Golęczewo",227823.5,2
+"Franklinów",32200.0,2
+"Dębica",135450.0,2
+Duszniki,191350.0,2
+Daleszyce,170955.0,2
+"Czarnków",74500.0,2
+"Chodzież",135450.0,2
+Chludowo,85000.0,2
+Bulowice,234448.5,2
+"Bogumiłowice",134950.0,2
+Bochnia,226950.0,2
+Bobrowniki,1090000.0,2
+Biesiekierz,85977.0,2
+"Andrzejów Duranowski",49815.0,2
+"Żuromin",46700.0,1
+"Żerków",681999.0,1
+"Żary",238393.0,1
+"Środa Śląska",52999.0,1
+"Śmigiel",218000.0,1
+"Śliwice",81000.0,1
+"Łętowe",61999.0,1
+"Łękawica",64700.0,1
+"Łuczyce",167000.0,1
+"Łubowo",81900.0,1
+"Łańcut",48700.0,1
+"Łaskarzew",97900.0,1
+"Łask",106000.0,1
+Zielonka,89990.0,1
+"Zgłobice",186900.0,1
+Zgierz,92700.0,1
+"Zbrosławice",115999.0,1
+"Zaścianki",74500.0,1
+"Zaniemyśl",308000.0,1
+"Zalesie Górne",229800.0,1
+Zalesie,89000.0,1
+"Zagórz",63999.0,1
+"Władysławowo",269370.0,1
+"Węgierska Górka",65900.0,1
+Wysogotowo,91700.0,1
+Wysieradz,109000.0,1
+Wudzyn,99800.0,1
+Wtelno,249900.0,1
+"Wręczyca Wielka",629000.0,1
+Wronki,62000.0,1
+Wolin,116000.0,1
+"Wola Karczewska",112000.0,1
+Wojkowice,174144.0,1
+Witonia,125000.0,1
+Witkowo,68900.0,1
+Wierzbica,245000.0,1
+"Wieruszów",76791.0,1
+Wadowice,108000.0,1
+"Uniejów",84900.0,1
+Tymbark,387450.0,1
+Tuplice,155000.0,1
+Trzebnica,169800.0,1
+Trzebinia,307500.0,1
+Trenczyn,8499.0,1
+"Topołowa",139000.0,1
+Topolin,115000.0,1
+"Tarnowo Podgórne",81900.0,1
+Tarnobrzeg,134900.0,1
+"Targowa Górka",79999.0,1
+"Tarchały Wielkie",33500.0,1
+"Słupiec",81700.0,1
+"Słopnice",132900.0,1
+"Słomczyn",135300.0,1
+"Sławno",110577.0,1
+"Sławków",49500.0,1
+"Szydłowiec",165000.0,1
+Szczyrk,57900.0,1
+Szamocin,51000.0,1
+Szadkowice,253000.0,1
+Szadek,179500.0,1
+Sypniewo,67900.0,1
+Susz,189990.0,1
+"Sulechów",77000.0,1
+Sulbiny,152000.0,1
+Suchorzew,117000.0,1
+"Strzeniówka",229000.0,1
+"Strzelce Krajeńskie",48000.0,1
+Strzegom,68000.0,1
+"Stoczek Łukowski",67800.0,1
+"Stary Wiązów",90900.0,1
+"Stargard Szczeciński",324720.0,1
+Stanin,93900.0,1
+"Sobótka",152900.0,1
+"Skórzewo",46900.0,1
+Skoki,47900.0,1
+"Skarżysko-Kamienna",89667.0,1
+Sierpc,99900.0,1
+Sieroty,139900.0,1
+Siepraw,198900.0,1
+Sanok,238000.0,1
+Sandomierz,119900.0,1
+"Rąbień",124000.0,1
+Ryglice,119999.0,1
+"Ruda Maleniecka",74900.0,1
+Rozalin,38900.0,1
+Rokocin,132000.0,1
+Rokietnica,124020.0,1
+Robakowo,89900.0,1
+Reda,90000.0,1
+Rataje,259000.0,1
+"Radzyń Podlaski",188000.0,1
+Radzymin,82800.0,1
+"Radziszów",76500.0,1
+"Racibórz",104000.0,1
+"Płochocin",41900.0,1
+"Pępowo",59900.0,1
+"Pułtusk",53900.0,1
+Puck,95900.0,1
+Pucice,220000.0,1
+Przyszowice,89900.0,1
+"Przemęt",135000.0,1
+"Przemyśl",84900.0,1
+Pruszcz,318999.0,1
+"Połaniec",79999.0,1
+Popielawy,115000.0,1
+"Ponętów Dolny",219900.0,1
+Pobiedziska,218500.0,1
+"Pniów",119000.0,1
+Pleszew,68900.0,1
+"Piekary Śląskie",43999.0,1
+Piaski,75900.0,1
+"Pawłowiczki",159500.0,1
+Parczew,119540.0,1
+Paprotnia,176000.0,1
+"Paniówki",314500.0,1
+"Paczków",126000.0,1
+"Ożarów Mazowiecki",398000.0,1
+"Oświęcim",64900.0,1
+"Otyń",211375.0,1
+Otwock,39900.0,1
+"Ostrówek",114900.0,1
+"Osjaków",118000.0,1
+Orzesze,329000.0,1
+Orzech,44900.0,1
+Orchowo,119500.0,1
+Olkusz,204057.0,1
+"Odolanów",90900.0,1
+Obrzycko,38999.0,1
+"Nowy Wiśnicz",134000.0,1
+"Nowy Dwór Mazowiecki",112450.0,1
+"Nowy Dwór Gdański",549000.0,1
+Nowina,158000.0,1
+"Nowe Osiny",103320.0,1
+"Nowe Miasto nad Pilicą",175000.0,1
+"Nowe Miasto Lubawskie",289000.0,1
+"Nowe Boryszewo",112500.0,1
+"Nowa Dęba",157000.0,1
+Niwy,99900.0,1
+"Nawojowa Góra",649000.0,1
+Natolin,59900.0,1
+"Mława",299000.0,1
+"Mszana Górna",112000.0,1
+Motycz,110900.0,1
+Mosty,125000.0,1
+Mosina,102999.0,1
+Miodary,150645.0,1
+Miastko,18900.0,1
+"Masłów Pierwszy",64900.0,1
+Malbork,69987.0,1
+"Lębork",54500.0,1
+"Lipówki",79900.0,1
+Lipno,65900.0,1
+"Lidzbark Warmiński",141898.0,1
+"Libiąż",46900.0,1
+Leszczyna,430500.0,1
+"Lechów",145000.0,1
+Lanckorona,199900.0,1
+Kwidzyn,52800.0,1
+"Ksawerów",185000.0,1
+"Krągola",49900.0,1
+"Krypno Kościelne",85900.0,1
+"Krynica-Zdrój",9471.0,1
+Krotoszyn,128000.0,1
+"Krasiejów",73500.0,1
+Kraczkowa,93700.0,1
+"Kościelna Wieś",129900.0,1
+Kozienice,49900.0,1
+Kowary,242900.0,1
+"Korfantów",173500.0,1
+"Kolonia Wola Zaradzyńska",270000.0,1
+Kochanowice,72900.0,1
+"Kobiór",117980.0,1
+Klaudyn,279900.0,1
+"Kiełczów",123000.0,1
+Kiekrz,106900.0,1
+"Kaźmierz",110000.0,1
+Kamierowo,141500.0,1
+"Kamienna Góra",572171.0,1
+Jezierzyce,79999.0,1
+Jelcz-Laskowice,170970.0,1
+Jasienica,72000.0,1
+Jaracz,499000.0,1
+Jankowice,144900.0,1
+"Jaktorów",102900.0,1
+"Jabłonna",77000.0,1
+"Jabłonka",119999.0,1
+"Iława",91300.0,1
+Izabelin,172000.0,1
+"Hrubieszów",83900.0,1
+"Głuchołazy",38500.0,1
+"Głubczyce",49900.0,1
+"Gąbin",62000.0,1
+"Gurówko",66800.0,1
+Gryfino,430500.0,1
+"Grybów",76900.0,1
+"Grodzisko Górne",98000.0,1
+Grobia,130000.0,1
+"Gołubie",45000.0,1
+Gorlice,76900.0,1
+Gomunice,105000.0,1
+Gnojnik,579000.0,1
+"Gnieżdżewo",389900.0,1
+Glinojeck,197000.0,1
+"Gdów",199000.0,1
+"Franciszków",37900.0,1
+"Dębno Polskie",136000.0,1
+"Dębienko",73000.0,1
+"Dąbrowa Tarnowska",156999.0,1
+"Dąbrowa",304497.0,1
+"Dąbie",39900.0,1
+"Dzierżoniów",198900.0,1
+"Dziekanów Leśny",111900.0,1
+"Działdowo",78500.0,1
+"Dworszowice Pakoszowe",95900.0,1
+Drawsko,79999.0,1
+Dobczyce,182900.0,1
+Deszczno,78500.0,1
+Debrzno,184000.0,1
+Dalborowice,63700.0,1
+Czerwionka-Leszczyny,209000.0,1
+"Czeladź",197341.0,1
+"Cięcina",95000.0,1
+Cisew,49900.0,1
+Ciche,437900.0,1
+"Chrząstowice",163999.0,1
+Chotynia,63000.0,1
+"Chotomów",460000.0,1
+Chociwek,170000.0,1
+"Chełmża",100842.0,1
+"Błażowa",222630.0,1
+"Będziemyśl",105000.0,1
+"Bytów",119999.0,1
+"Budzyń",99900.0,1
+"Brzozów",172077.0,1
+"Brzeźno",62000.0,1
+"Brzeźnica",43600.0,1
+Brzezinka,55300.0,1
+"Brzeg Dolny",69999.0,1
+Brzeg,359160.0,1
+Brodnica,179580.0,1
+"Borówiec",432000.0,1
+Borkowo,122000.0,1
+Bodzentyn,89500.0,1
+"Blizne Jasińskiego",99900.0,1
+"Biłgoraj",82900.0,1
+Bilcza,189900.0,1
+"Bielsk Podlaski",265900.0,1
+Bielkowo,155898.0,1
+Bartoszyce,89900.0,1
+Barcice,102000.0,1
+Balice,92000.0,1
+Babice,115000.0,1
+Andrespol,387000.0,1
+"Aleksandrów Łódzki",115000.0,1

@@ -1,0 +1,1 @@
+select count(model)as count,model from avto where mark = 'opel' Group by 2;

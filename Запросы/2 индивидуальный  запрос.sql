@@ -1,0 +1,1 @@
+select avg(mileage) as AverageMileage from avto where fuel = "Diesel";
